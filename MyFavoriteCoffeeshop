@@ -12,20 +12,20 @@
   <header>
     <h2> Cozy coffeeshop</h2>
     <div>
-      <img src="cafedoor.jpg" alt="Picture of the door in GingerKawa" width="50%" height="50%">
+      <img src="cafedoor.jpg" alt="Picture of the door in GingerKawa" width="40%">
     </div>
     <figure>Enter in GingerKawa</figure>
   </header>
   <main>
     <p>The cozy little café in Gdansk is conveniently located in the historic district of the city.</p>
     <div>
-      <img src=" glass.jpg" alt="Picture of the barista" width="50%" height="50%">
+      <img src=" glass.jpg" alt="Picture of the barista" width="40%">
     </div>
     <p>Its interior embodies comfort and warmth, with comfortable sofas and tables for visitors. Here you can enjoy
       aromatic coffee of various kinds, freshly baked desserts, and a wonderful atmosphere, perfect for a peaceful
       time
       or conversation with friends.</p>
-    <img src="baristadesert.jpg" alt="Barista makes desert" width="50%">"
+    <img src="baristadesert.jpg" alt="Barista makes desert" width="40%">"
   </main>
   <h3>GingerKawa offers a wide range of Italian coffee <a href="https://costadoro.it/en/" target="_blank">
       COSTADORO
