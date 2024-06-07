@@ -8,7 +8,7 @@
 <body>
   <h1>GingerKawa - Coffeeshop in the center of Gdansk</h1>
   <header>
-    <h2> Cozy coffeeshop</h2>
+    <h2>Cozy coffeeshop</h2>
     <div>
       <img src="cafedoor.jpg" alt="Picture of the door in GingerKawa" width="40%">
     </div>
@@ -21,9 +21,8 @@
     </div>
     <p>Its interior embodies comfort and warmth, with comfortable sofas and tables for visitors. Here you can enjoy
       aromatic coffee of various kinds, freshly baked desserts, and a wonderful atmosphere, perfect for a peaceful
-      time
-      or conversation with friends.</p>
-    <img src="baristadesert.jpg" alt="Barista makes desert" width="40%">"
+      time or conversation with friends.</p>
+    <img src="baristadesert.jpg" alt="Barista makes desert" width="40%">
   </main>
   <h3>GingerKawa offers a wide range of Italian coffee <a href="https://costadoro.it/en/" target="_blank">
       COSTADORO
