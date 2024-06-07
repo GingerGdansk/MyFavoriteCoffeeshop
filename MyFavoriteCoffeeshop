@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width">
   <title>My Favorite Coffeeshop</title>
 </head>
-
 <body>
   <h1>GingerKawa - Coffeeshop in the center of Gdansk</h1>
   <header>
@@ -44,8 +43,6 @@
   <p>Also here you can try homemade desserts, croissants, and during the hot season you can enjoy cold drinks!</p>
   <div>You can find GingerKawa on <a href="https://www.instagram.com/ginger_kawa" target="_blank"> Instagram </a>
   </div>
-  <script src="script.js"></script>
   <footer>Copyright Natallia Kukharchyk</footer>
 </body>
-
 </html>
